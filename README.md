@@ -12,6 +12,8 @@ RedemRP Menu for Administration and Developing system
 
 * Copy and paste ```xmau_AdminUtils``` folder to ```resources```
 * Add ```ensure xmau_AdminUtils``` to your ```server.cfg``` file
+* You need ```spos.txt``` in your ```xmau_AdminUtils``` folder
+* You need ```bans.txt``` in your ```xmau_AdminUtils``` folder
 
 ## Features
     
