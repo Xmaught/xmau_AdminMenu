@@ -89,8 +89,8 @@ RedemRP Menu for Administration and Developing system
 ## Contributors
 - All the VORP_CORE team that code whit me all day and night
 - Thanks (Artzalez)[https://github.com/DevBiiTz] for solving a lot of the problems
-- Thanks (Rubi216)[https://github.com/rubi216] for all the hard testing and english translations
-- Thanks (Rubi216)[https://github.com/Avililla] for testing and helping me with some useful lines of code
+- Thanks (rubi216)[https://github.com/rubi216] for all the hard testing and english translations
+- Thanks (Avililla)[https://github.com/Avililla] for testing and helping me with some useful lines of code
  
 
 
