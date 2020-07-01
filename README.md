@@ -17,8 +17,8 @@ RedemRP Menu for Administration and Developing system
 
 ## Features
     
-       You can only use this Menu if you are an admin in users.group in redemrp db
-        Page Up to open de Menu
+       You can only use this Menu if you are an admin or superadmin in users.group in redemrp db
+       Page Up or Delete to open de Menu(i cant remember in this version)
     
     -Weapons:
         -Spawn weapons
